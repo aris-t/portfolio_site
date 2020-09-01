@@ -1,5 +1,7 @@
 ---
+title: index
 layout: default
+filename: index
 ---
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
