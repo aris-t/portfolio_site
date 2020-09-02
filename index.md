@@ -2,6 +2,7 @@
 title: index
 layout: default
 filename: index
+show_downloads: True
 ---
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
